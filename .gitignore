@@ -331,6 +331,11 @@ __pycache__/
 # tools/**
 # !tools/packages.config
 
+# Coses per a UE4
+Binaries/*
+Intermediate/*
+Saved/*
+
 # Tabs Studio
 *.tss
 
